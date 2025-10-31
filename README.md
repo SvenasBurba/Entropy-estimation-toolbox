@@ -17,4 +17,8 @@ You can clone and work with github repository in MatLab online or your local Mat
 
 ## Toolbox tutorial in local drive
 
-The toolbox repository can be downloaded and used locally on the system.
+The toolbox repository can be downloaded and used locally on the system following these steps:
+1. Extract the "Entropy-estimation-toolbox.zip" file at your desired location
+2. Locate the "Entropy_estimation_tutorial.mlx" and open it in your MatLab application
+3. Make sure that "Entropy-estimation-toolbox" is your working folder, **if not**, locate "browse for folder" and locate "Entropy-estimation-toolbox" folder in windows file browser
+4. Then the "Entropy_estimation_tutorial.mlx" should work without errors following instructions
